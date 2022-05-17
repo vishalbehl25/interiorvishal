@@ -66,10 +66,9 @@ h1 {
 P {
     color: rgb(10, 222, 165);
     position: absolute;
-    margin: 22px;
     font-size: 30px;
     text-align: center;
-    margin-left: 300px;
+  
 }
 
 form {
