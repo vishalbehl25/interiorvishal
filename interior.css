@@ -12,6 +12,7 @@ header {
     background-size: cover;
     height: 100vh;
     background-position: center;
+    width: 100vh;
 }
 
 ul li {
